@@ -1,0 +1,1 @@
+# Attention-Driven-Network-Intrusion-Detection-A-Transformer-Approach-with-Synthetic-NSL-KDD-Data
